@@ -10,3 +10,5 @@
 ### 💨 I am currently working on a community project senzorvzduchu.cz
 ### 📚 I am currently learning Rust
 
+### ✉️ jonas.tenora@gmail.com
+
