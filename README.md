@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jonas.tenora@gmail.com**
 
-- ⚡ Fun fact **I consider myself a skilled humorist**
+- ⚡ Fun fact: **I consider myself a skilled humorist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
