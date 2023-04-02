@@ -1,13 +1,6 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/767f9171-87e0-4aef-ba22-0909a5f5d4d5/db1o36p-09268f86-a35d-4742-b8ae-5aef3fcb4eae.jpg/v1/fill/w_1470,h_544,q_70,strp/hackerdog___facebook_cover_by_iesujafe_db1o36p-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMwIiwicGF0aCI6IlwvZlwvNzY3ZjkxNzEtODdlMC00YWVmLWJhMjItMDkwOWE1ZjVkNGQ1XC9kYjFvMzZwLTA5MjY4Zjg2LWEzNWQtNDc0Mi1iOGFlLTVhZWYzZmNiNGVhZS5qcGciLCJ3aWR0aCI6Ijw9MTcwMiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.O437vvB0AnqD3N3MGZeQkD9Fl2aETZFg8F2C6D8p3Bo)
 <h1 align="center">Hi 👋, I'm Jonas</h1>
-<h3 align="center">Mainly backend developer from Czechia</h3>
+<h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/SkeletalAdolescentKawala-max-1mb.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wiserat&label=Profile%20views&color=0e75b6&style=flat" alt="wiserat" /> </p>
-
-- 🔭 I’m currently working on some fr fr **important stuff** ngl
-
-- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **jonas.tenora@gmail.com**
 
