@@ -1,4 +1,4 @@
-**Hi there, thanks for stopping by, I'm** ****Jonas Tenora****.
+**Hi there, thanks for stopping by, I'm** ***Jonas Tenora***.
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="250">
 
