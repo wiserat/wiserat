@@ -7,13 +7,13 @@ const jonasek = {
     askMeAbout: ["web dev", "artificial intelligence", "linux", "math", "cyber security"],
     technologies: {
         frontEnd: {
-            js: ["svelte"],
+            js: ["svelte", "react"],
             css: ["tailwind", "sass", "skeleton"]
         },
 	baas: ["pocketbase", "firebase"],
         backEnd: ["golang", "python", "C#"],
         databases: ["mysql", "sqlite"],
-	restApis: ["flask", "fastapi", "fiber"]
+	restApis: ["flask", "fiber"]
     }
 };
 ```
