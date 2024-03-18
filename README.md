@@ -21,4 +21,4 @@ const jonasek = {
 ![Jonas's github stats](https://github-readme-stats.vercel.app/api?username=wiserat&hide=contribs,prs&count_private=true&show_icons=true)
 [![Jonas'S most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiserat&layout=compact)](https://github.com/wiserat/github-readme-stats)
 
-Also, I don't know if I've mentioned that I use **Arch Linux** btw
+Also, I don't know if I've mentioned that I use ~**Arch Linux**~ btw (actually now I'm a Mac user \*huray\*)
